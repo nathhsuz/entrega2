@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto Condensed', sans-serif;
+
+}
+
+body
+{
+    background-color: white;
+    
+}
+img{
+    width: 320px;
+    height: 340px;
+    object-fit: cover;
+    border-radius: 20px 20px 0px 0px;
+    margin-left: 80px;
+}
+
+header{
+    display: flex;
+   align-items: center;
+   justify-content: center;
+   gap: 2rem;
+  margin-top: -48px;
+   position: fixed;
+   width: 100%;
+}
+.contenedor
+{
+    margin-top: 13rem;
+    margin-left: 88px;
+}
